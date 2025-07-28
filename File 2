@@ -1,0 +1,6 @@
+
+# Add all files
+git add .
+
+# Commit your changes
+git commit -m "Initial commit of Epilepsy Connect app"
