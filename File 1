@@ -1,0 +1,8 @@
+# Navigate to your project folder
+cd path/to/epilepsy_connect_app
+
+# Initialize Git
+git init
+
+# Add your GitHub repo as the remote origin
+git remote add origin https://github.com/your-username/epilepsy-connect-app.git
